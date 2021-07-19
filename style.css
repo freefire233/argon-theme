@@ -4501,8 +4501,8 @@ html.darkmode.amoled-dark #content:before , html.darkmode.amoled-dark #content:a
 	}
 	/*文章边界缩小*/
 	.post-full{
-		margin-left: -10px;
-		margin-right: -10px;
+		margin-left: -5px;
+		margin-right: -5px;
 	}
 	/*显示更少的页码*/
 	.pagination:not(.pagination-mobile){
